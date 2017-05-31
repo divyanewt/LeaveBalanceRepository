@@ -1,4 +1,4 @@
-package com.newtglobal;
+/*package com.newtglobal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -13,4 +13,4 @@ public class ApprovalAppApplicationTests {
 	public void contextLoads() {
 	}
 
-}
+}*/
